@@ -1,6 +1,6 @@
 
 
-# GooglekeepClone
+# Google-keep-Clone
 
 ## Live Demo
 #  https://googlekeep21.netlify.app/
